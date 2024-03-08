@@ -1,0 +1,9 @@
+---
+title: "Jordan Form"
+format: html
+editor: visual
+---
+
+## Jordan Form
+
+blah blah blah
